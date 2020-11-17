@@ -1,5 +1,5 @@
 {
-  "name": "@pathofdev/react-tag-input",
+  "name": "kiteaai/ats-react-tag-input",
   "version": "1.0.7",
   "description": "A simple tag input component for React with editable tags",
   "main": "./build/umd/index.min.js",
@@ -10,7 +10,7 @@
   "homepage": "https://pathof.dev/projects/react-tag-input",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pathofdev/react-tag-input"
+    "url": "https://github.com/kiteaai/ats-react-tag-input"
   },
   "scripts": {
     "module-build": "tsc",
@@ -44,3 +44,4 @@
     "uglify-js": "^3.6.0"
   }
 }
+
