@@ -1,5 +1,5 @@
 {
-  "name": "kiteaai/ats-react-tag-input",
+  "name": "@kiteaai/ats-react-tag-input",
   "version": "1.0.7",
   "description": "A simple tag input component for React with editable tags",
   "main": "./build/umd/index.min.js",
